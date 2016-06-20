@@ -134,6 +134,7 @@ static CGPoint _imageViewCenterPoint;
     textLayer.fontSize = FBDOUBLESIDESLIDER_DEFALUT_FONT_SIZE;
     textLayer.alignmentMode = @"center";
     textLayer.masksToBounds = NO;
+//    textLayer
     return textLayer;
 }
 
